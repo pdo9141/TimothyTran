@@ -1,0 +1,21 @@
+{
+    "environmentSettings": {
+        "webSite": {
+            "name": "TimothyTranWeb",
+            "location": "West US"
+        },
+        "databases": [
+            {
+                "connectionStringName": "DefaultConnection",
+                "databaseName": "TimothyTranWeb_db",
+                "serverName": "kwl8e9ieai",
+                "user": "machida",
+                "password": "",
+                "edition": "",
+                "size": "",
+                "collation": "",
+                "location": "West US"
+            }
+        ]
+    }
+}
